@@ -1,0 +1,12 @@
+#!/bin/sh
+
+read -rn 1 -p "Clear Google Chrome profile data? "
+echo
+
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+  rm -rf ~/Library/Application\ Support/Google
+  echo "Google Chrome profile data cleared."
+else
+  echo "Data not cleared."
+fi

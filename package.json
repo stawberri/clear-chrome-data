@@ -1,0 +1,25 @@
+{
+  "name": "clear-chrome-data",
+  "version": "1.0.0",
+  "description": "clear Google Chrome data on macOS",
+  "bin": "./bin/clear-chrome-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stawberri/clear-chrome-data.git"
+  },
+  "keywords": [
+    "cli",
+    "chrome",
+    "google",
+    "clear",
+    "delete",
+    "mac",
+    "macOS"
+  ],
+  "author": "Pudding <p@puddi.pw> (https://www.puddi.pw)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stawberri/clear-chrome-data/issues"
+  },
+  "homepage": "https://github.com/stawberri/clear-chrome-data#readme"
+}
