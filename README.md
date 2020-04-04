@@ -2,6 +2,7 @@
 clear Google Chrome data on macOS
 
 [![npx clear-chrome-data](https://img.shields.io/badge/npx-clear--chrome--data-ff69b4.svg)](https://www.npmjs.com/package/clear-chrome-data)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Run this package with npx to delete your Google Chrome profile data on macOS. No install necessary!
 
